@@ -1,0 +1,44 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 750M (ID=0xfe4)
+    Vendor:   NVIDIA
+    VRAM:     1987 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\dotapixel\dota_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\dotapixel\dota_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\dotapixel\dota_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\dotapixel\dota_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\dotapixel\dota_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\dotapixel\dota_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\dotapixel\dota_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\dotapixel\dota_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.064 seconds
+Platform assembly: E:\dotapixel\dota_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\dotapixel\dota_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.042066 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.089583 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 586.
+Total: 3.077296 ms (FindLiveObjects: 0.062789 ms CreateObjectMapping: 0.048299 ms MarkObjects: 0.382171 ms  DeleteObjects: 2.582827 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.132841 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 586.
+Total: 0.492657 ms (FindLiveObjects: 0.060374 ms CreateObjectMapping: 0.033206 ms MarkObjects: 0.393039 ms  DeleteObjects: 0.005433 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.982295 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 586.
+Total: 0.722080 ms (FindLiveObjects: 0.080902 ms CreateObjectMapping: 0.094184 ms MarkObjects: 0.536730 ms  DeleteObjects: 0.008452 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 15bc -> priority: 1 
